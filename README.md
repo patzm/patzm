@@ -26,9 +26,9 @@
 </a>
 
 ## Other interesting places
-Blog 👉 https://patzm.github.io/ 📖
-Dotfiles 👉 https://github.com/patzm/dotfiles ⌨️, including automated setup 🙈.
-Dockerfiles 🐳 👉 https://github.com/patzm/dockerfiles
+* **Blog** 👉 https://patzm.github.io/ 📖
+* **Dotfiles** 👉 https://github.com/patzm/dotfiles ⌨️, including automated setup 🙈.
+* **Dockerfiles** 🐳 👉 https://github.com/patzm/dockerfiles
 
 ## Find me at
 [LinkedIn](https://www.linkedin.com/in/martin-patz/)
